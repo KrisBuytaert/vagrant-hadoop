@@ -2,3 +2,5 @@ Vagrant box definition based on the puppet manifest at :
 
 git clone git://gist.github.com/1571780.git
 
+
+Also put jdk-6u21-linux-x64-rpm.bin in /installers/
