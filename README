@@ -1,0 +1,4 @@
+Vagrant box definition based on the puppet manifest at : 
+
+git clone git://gist.github.com/1571780.git
+
